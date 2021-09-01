@@ -6,7 +6,7 @@ public class Exerc21 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-
+//arquivo teste modificado
 
 
         System.out.println("Entre com uma letra (F ou M): ");
