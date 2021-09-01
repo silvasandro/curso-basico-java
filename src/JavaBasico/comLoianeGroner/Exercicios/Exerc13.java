@@ -6,6 +6,8 @@ public class Exerc13 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
+//        Scanner scan = new Scanner(System.in);
+
 
         System.out.println("Entre com uma letra (F ou M): ");
         String input = scan.next();
