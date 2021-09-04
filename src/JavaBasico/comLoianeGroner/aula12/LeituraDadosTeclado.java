@@ -6,7 +6,7 @@ public class LeituraDadosTeclado {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Digite o seu primeiro nome, idade, attd de filhos, altura e se tem bichinho de estimação");
+        System.out.println("Digite o seu primeiro nome, idade, qtd de filhos, altura e se tem bichinho de estimação");
         String primeiroNome = scan.next();
         int idade = scan.nextInt();
         byte qtdFilhos = scan.nextByte();
